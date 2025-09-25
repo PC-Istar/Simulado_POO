@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package GestaoDeBiblioteca;
 
-/**
- *
- * @author roney
- */
 public class Main_Livro {
     public static void main(String[] args) {
         LivroFiccao f1 = new LivroFiccao("Aventura", "Harry Potter", "J. K. Rowling");
@@ -23,3 +15,4 @@ public class Main_Livro {
         System.out.println("Autor: "+l1.getAutor());
     }
 }
+
