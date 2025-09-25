@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package GestaoEscolar;
 
 public class Main_Escola {
@@ -20,3 +16,4 @@ public class Main_Escola {
     }
  
 }
+
