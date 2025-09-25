@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package GestaoDeFuncionarios;
 
-/**
- *
- * @author roney
- */
 public class Main_Conta {
     public static void main(String[] args) {
 
@@ -24,3 +16,4 @@ public class Main_Conta {
         System.out.println("Saldo apos rendimento: " + cp.getSaldo());
     }
 }
+
