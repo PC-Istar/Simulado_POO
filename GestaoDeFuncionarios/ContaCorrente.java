@@ -1,15 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package GestaoDeFuncionarios;
 
 import static java.lang.reflect.Array.get;
 
-/**
- *
- * @author roney
- */
 public class ContaCorrente extends Conta {
     private double limiteChequeEspecial;
 
@@ -35,3 +27,4 @@ public class ContaCorrente extends Conta {
         return false;
     }
 }
+
