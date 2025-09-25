@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package GestaoDeBiblioteca;
 
-/**
- *
- * @author roney
- */
 public class LivroNaoFiccao extends Livro{
     private String assunto;
     
@@ -24,3 +16,4 @@ public class LivroNaoFiccao extends Livro{
         this.assunto = assunto;
     }
 }
+
