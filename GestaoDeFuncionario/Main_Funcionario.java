@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package GestaoDeFuncionario;
 
-/**
- *
- * @author roney
- */
 public class Main_Funcionario {
     public static void main(String[] args) {
        
@@ -25,3 +17,4 @@ public class Main_Funcionario {
 
     }
 }
+
