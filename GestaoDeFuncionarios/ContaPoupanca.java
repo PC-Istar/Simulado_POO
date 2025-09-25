@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package GestaoDeFuncionarios;
 
-/**
- *
- * @author roney
- */
 public class ContaPoupanca extends Conta {
     private double taxaDeRendimento;
 
@@ -28,3 +20,4 @@ public class ContaPoupanca extends Conta {
         saldo += saldo * taxaDeRendimento;
     }
 }
+
