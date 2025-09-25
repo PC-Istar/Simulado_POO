@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package GestaoDeVeiculos;
 
-/**
- *
- * @author roney
- */
 public class Main_Veiculos {
     public static void main(String[] args) {
 
@@ -24,3 +16,4 @@ public class Main_Veiculos {
         System.out.println("Cilindradas: " + m1.getCilindradas());
         
     } }
+
