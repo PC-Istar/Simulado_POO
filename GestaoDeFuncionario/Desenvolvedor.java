@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package GestaoDeFuncionario;
 
-/**
- *
- * @author roney
- */
 public class Desenvolvedor extends Funcionario {
     private String linguagem;
 
@@ -26,3 +18,4 @@ public class Desenvolvedor extends Funcionario {
         this.linguagem = linguagem;
     }
 }
+
